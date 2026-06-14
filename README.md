@@ -21,7 +21,7 @@ This repository contains the embedded software for a Brain-Computer Interface (B
 A practical demonstration of this system can be seen in the video below. It showcases the complete setup, including electrode placement, intentional blinking, and the real-time activation of the motor.
 
 🎥 
-https://github.com/user-attachments/assets/26089015-e8d5-4e18-a7d6-7d24f8ae349d
+<video src="https://github.com/user-attachments/assets/26089015-e8d5-4e18-a7d6-7d24f8ae349d" width="100%" controls></video>
 
 ### Author
 **Yuri Silveira Pereira** Computer Engineering Undergraduate - UFSM
@@ -45,7 +45,7 @@ Este repositório contém o software embarcado de uma Interface Cérebro-Máquin
 Uma demonstração prática deste sistema pode ser vista no vídeo abaixo. O registro ilustra a configuração completa, incluindo o posicionamento dos eletrodos, as piscadas intencionais e o acionamento em tempo real do motor.
 
 🎥 
-https://github.com/user-attachments/assets/26089015-e8d5-4e18-a7d6-7d24f8ae349d
+<video src="https://github.com/user-attachments/assets/26089015-e8d5-4e18-a7d6-7d24f8ae349d" width="100%" controls></video>
 
 ### Autor
 **Yuri Silveira Pereira** Estudante de Engenharia de Computação - UFSM
