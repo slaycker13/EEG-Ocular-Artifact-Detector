@@ -207,3 +207,6 @@ Ele é destinado apenas para fins educacionais, de pesquisa e demonstração.
 
 **Yuri Silveira Pereira**
 Graduando em Engenharia de Computação — UFSM
+
+**Daniel Dargelio Ferrão Luft**
+Graduando em Engenharia Elétrica — UFSM
